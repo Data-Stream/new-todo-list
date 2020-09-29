@@ -16,7 +16,7 @@ export default class App extends Component {
       this.createTodoItem('Have a lunch')
     ],
     term: '',
-    filter: 'all '
+    filter: 'all'
   };
 
   createTodoItem(label) {
